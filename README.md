@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @flyxeau
+- 👀 I’m interested in NodeJS, Python, PHP, CSS
+- 🌱 I’m currently learning HTML, PHP, CSS and Electron
+- 💞️ VPSLabs
+- 📫 Flyxo#2021
