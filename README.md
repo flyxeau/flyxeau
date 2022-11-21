@@ -1,8 +1,7 @@
-### Hi there, I'm Axel - aka Flyxo 👋
+### Hi there, I'm Flyxo 👋
 
 ## I'm a Student, Developer, Self-Learner, and NodeJS lover!
-- 🔭 I’m currently working on project on my Raspberry Pi, Arduino !
+- 🔭 I’m currently working on project on my Proxmox Sever !
 - 👀 I’m interested in NodeJS, Python, PHP, CSS
-- 🌱 I’m currently learning HTML, PHP, CSS and Electron
-- 💞️ wiw
+- 🌱 I’m currently learning PHP, TypeScript and C
 
