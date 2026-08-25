@@ -1,10 +1,10 @@
-<!-- flyxeau/flyxeau — profil GitHub -->
+<!-- flyxeau/flyxeau : GitHub profile -->
 
 <div align="center">
 
 ### Hi 👋, I'm Axel
 
-**Étudiant · sysadmin & réseau** — 🇫🇷 France
+**Student · sysadmin & network engineer** · 🇫🇷 France
 
 [![Portfolio](https://img.shields.io/badge/flyxo.pro-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flyxo.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axeldrelon)
@@ -15,9 +15,9 @@
 
 ---
 
-- 🖥️ Infra & réseau : Linux, Proxmox, VyOS, BGP/IPv6, Docker, Nginx, Grafana
-- 💻 Dev : Java, TypeScript / Next.js, PHP / Laravel, Python
-- 🔒 Mes projets sont privés — l'essentiel est vitrine sur **[flyxo.pro](https://flyxo.pro)**
+- 🖥️ Infra & networking: Linux, Proxmox, VyOS, BGP/IPv6, Docker, Nginx, Grafana
+- 💻 Dev: Java, TypeScript / Next.js, PHP / Laravel, Python
+- 🔒 My repos are private. The showcase lives on **[flyxo.pro](https://flyxo.pro)**
 - 📫 `contact@flyxo.pro`
 
 ### Stack
@@ -29,7 +29,7 @@
 <div align="center">
 
 <img height="165" src="./profile/stats.svg" alt="stats" />
-<img height="165" src="./profile/top-langs.svg" alt="top langages" />
+<img height="165" src="./profile/top-langs.svg" alt="top languages" />
 
 </div>
 
